@@ -1,50 +1,56 @@
 # Olá, sou a *_Anna Luiza Fistarol_*
 
-É um prazer recebê-lo(a) aqui. Sou programadora / desenvolvedora em evolução contínua em prol de atingir o melhor resultado possível atrelado com meus conhecimentos de UX/UI Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia 💻💜.
-> ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizacamargo/lists/projetos)
-
-<br>
-<div align="center">
-  <a href="https://github.com/annaluizacamargo">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=annaluizacamargo&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br><br>
-  
-  
-## 🛠️ Minhas Skill's
-  > - **NextJS**
-  > - **ReactJS**
-  > - **Node.js**
-  > - **Nest**
-  > - **TypeScript**
-  > - **JavaScript**
-  > - **Laravel**
-  > - **PHP**
-  > - **Wordpress**
-  > - **Styled-components**
-  > - **CSS/SCSS**
-  > - **HTML**
-  > - **Figma**
-  > - **Git**
-  > - **MySQL** 
-<br>
+É um prazer recebê-lo(a) aqui. Sou desenvolvedora web apaixonada por criar **interfaces modernas, experiências pixel-perfect e soluções inteligentes** usando a tecnologia.
+ ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizafistarol/lists/projects)
 
 
-## 🧠 Sobre mim
-
-<div>
-  • Autismo leve com AH/SD acadêmica, sou muito dedicada e adoro aprender coisas novas.
-  <br>
-  • Já trabalhei na área da saúde como Enfermeira e Tutora Externa de Enfermagem, mas hoje sigo o que faz meu coração bater mais forte, que é a programação.
-  <br>
-  • Adoro assistir filmes e séries, resolver cubo mágico e jogar Sudoku e Nonogram no meu tempo livre.
-<div>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHkOWz_DWFvoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZoNwHyZHwAc-/0/1761167311166?e=1762992000&v=beta&t=v3r-tB09g_AmjDn27FEcLnOlk_Yh_TgeCPy9oTEDGC0" secured-asset-link="" style="max-width: 100%;">
 
 
-<br>
+## 🛠 Tecnologias & Skills
 
-## 💻 Forma de contato
-> <div align="center"><a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank"></a>  <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank"></a> </div>
-> <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/73aa0143-869a-49c2-b307-f27ed984c5be" style="border-radius:20px;"></a>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+- **Front-end:** Next.js, React, Vue.js, TypeScript, HTML5, CSS3, Styled-Components, SASS, Material UI  
+- **Back-end:** Node.js, NestJS
+- **Outros:** WordPress
+- **Ferramentas:** Git, GitHub, Figma, UX/UI Design, S.O.L.I.D, Metodologias Ágeis (Scrum)  
+
+---
+
+## 💼 Experiência
+
+- Desenvolvimento de **plataformas web e aplicações complexas** com foco em performance e experiência do usuário.  
+- Experiência em **projetos internacionais**, atuando como freelancer e colaboradora de equipes remotas.  
+- Capacidade de atuar tanto no **front-end e design quanto no back-end**, além de documentação técnica e design de interfaces.
+
+---
+
+## 🚀 Meus Projetos
+- Para ver meus projetos recentes, visite meu [portfólio](https://annaluizafistarol.com.br/#projects).
+- Para ver todos os projetos, visite [a página do meu portfólio](https://annaluizafistarol.com.br/projects) ou meus [projetos no GitHub](https://github.com/stars/annaluizafistarol/lists/projects).
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-luiza-fistarol/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizafistarol@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annaluizafistarol)
+
+---
+
+## ⚡ Curiosidades
+
+- Sou apaixonada por **UI/UX**, mas também gosto de colocar a mão no backend quando necessário.  
+- Adoro criar **documentações claras e organizadas** para qualquer projeto.  
+- Gosto de **experimentar novas tecnologias**, sempre aprendendo e me desafiando.
+
+---
+
+✨ Obrigada pela visita! Vamos criar algo incrível juntos!
