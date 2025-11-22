@@ -1,10 +1,12 @@
 # Olá, sou a *_Anna Luiza Fistarol_*
 
 É um prazer recebê-lo(a) aqui. Sou desenvolvedora web apaixonada por criar **interfaces modernas, experiências pixel-perfect e soluções inteligentes** usando a tecnologia.
- ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizafistarol/lists/projects)
 
-
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHkOWz_DWFvoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZoNwHyZHwAc-/0/1761167311166?e=1762992000&v=beta&t=v3r-tB09g_AmjDn27FEcLnOlk_Yh_TgeCPy9oTEDGC0" secured-asset-link="" style="max-width: 100%;">
+ ### [💻 Acesse meu portfólio](https://annaluizafistarol.com.br/)
+ 
+ ### [📂 Acesse meus projetos aqui](https://github.com/stars/annaluizafistarol/lists/projects)
+ 
+<img src="https://raw.githubusercontent.com/annaluizafistarol/assets/refs/heads/main/LinkedIn%20Header.jpg?token=GHSAT0AAAAAADJXTYOJQDNKQITRKGLM4ARA2JCCGHA" style="max-width: 100%;">
 
 
 ## 🛠 Tecnologias & Skills
