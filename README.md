@@ -1,58 +1,65 @@
-# Olá, sou a *_Anna Luiza Fistarol_*
+<div align="center">
+  <img src="https://annaluizafistarol.com.br/assets/ui/stardew-logo.svg" alt="" width="72">
 
-É um prazer recebê-lo(a) aqui. Sou desenvolvedora web apaixonada por criar **interfaces modernas, experiências pixel-perfect e soluções inteligentes** usando a tecnologia.
+  <h1>Anna Luiza Fistarol</h1>
 
- ### [💻 Acesse meu portfólio](https://annaluizafistarol.com.br/)
- 
- ### [📂 Acesse meus projetos aqui](https://github.com/stars/annaluizafistarol/lists/projects)
- 
-<img src="https://raw.githubusercontent.com/annaluizafistarol/assets/refs/heads/main/LinkedIn%20Header.jpg?token=GHSAT0AAAAAADJXTYOJQDNKQITRKGLM4ARA2JCCGHA" style="max-width: 100%;">
+  <p><b>Desenvolvedora de Software Front-end e Full-stack</b><br>Interfaces “Pixel Perfect” com Next.js, React e TypeScript</p>
 
+  <p>
+    <a href="https://annaluizafistarol.com.br/"><img src="https://img.shields.io/badge/Portfólio-c47f6b?style=flat-square" alt="Portfólio"></a>
+    <a href="https://www.linkedin.com/in/anna-luiza-fistarol/"><img src="https://img.shields.io/badge/LinkedIn-c47f6b?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/E--mail-c47f6b?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+    <a href="https://annaluizafistarol.com.br/cv/Anna_Fistarol_Desenvolvedora_Software.pdf"><img src="https://img.shields.io/badge/Currículo-1d1a19?style=flat-square" alt="Currículo"></a>
+  </p>
+</div>
 
-## 🛠 Tecnologias & Skills
+<br>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+Desenvolvedora de Software com mais de 3 anos de experiência em Front-end e Full-stack, hoje na **Metagame** e na **IDK Brasil**. Transformo design em interfaces fiéis e performáticas, e também atuo no Back-end com Node.js e NestJS.
 
-- **Front-end:** Next.js, React, Vue.js, TypeScript, HTML5, CSS3, Styled-Components, SASS, Material UI  
-- **Back-end:** Node.js, NestJS
-- **Outros:** WordPress
-- **Ferramentas:** Git, GitHub, Figma, UX/UI Design, S.O.L.I.D, Metodologias Ágeis (Scrum)  
+- Única desenvolvedora, entre mais de 13, indicada ao **Prêmio Excelência 2024** da empresa
+- Correção crítica em um Back-end legado que **aumentou o faturamento mensal em 10%**
+- Projetos freelance para clientes no Brasil e nos EUA
 
----
+### Tecnologias
 
-## 💼 Experiência
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,vue,angular,nodejs,nestjs,postgres,jest,docker,wordpress,figma&perline=12" alt="Next.js, React, TypeScript, Vue.js, Angular, Node.js, NestJS, PostgreSQL, Jest, Docker, WordPress, Figma">
+</p>
 
-- Desenvolvimento de **plataformas web e aplicações complexas** com foco em performance e experiência do usuário.  
-- Experiência em **projetos internacionais**, atuando como freelancer e colaboradora de equipes remotas.  
-- Capacidade de atuar tanto no **front-end e design quanto no back-end**, além de documentação técnica e design de interfaces.
+### Projetos
 
----
+<p>
+  <a href="https://annaluizafistarol.com.br/#projects"><img src="https://img.shields.io/badge/Projetos_em_destaque-c47f6b?style=flat-square" alt="Projetos em destaque"></a>
+  <a href="https://github.com/stars/annaluizafistarol/lists/projects"><img src="https://img.shields.io/badge/Lista_completa_no_GitHub-1d1a19?style=flat-square" alt="Lista completa no GitHub"></a>
+</p>
 
-## 🚀 Meus Projetos
-- Para ver meus projetos recentes, visite meu [portfólio](https://annaluizafistarol.com.br/#projects).
-- Para ver todos os projetos, visite [a página do meu portfólio](https://annaluizafistarol.com.br/projects) ou meus [projetos no GitHub](https://github.com/stars/annaluizafistarol/lists/projects).
+### Curiosidades
 
----
+- Antes da programação fui enfermeira: o cuidado com as pessoas virou cuidado com quem usa o que eu crio.
+- Adoro documentações claras e organizadas.
+- Meu portfólio tem um modo secreto inspirado em Stardew Valley.
 
-## 📫 Contato
+<p><a href="https://annaluizafistarol.com.br/pt/stardew"><img src="https://img.shields.io/badge/Jogar_no_modo_Stardew_Valley-c47f6b?style=flat-square" alt="Jogar no modo Stardew Valley"></a></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-luiza-fistarol/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizafistarol@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annaluizafistarol)
+<details>
+<summary><b>English version</b></summary>
+<br>
 
----
+**Front-end and Full-stack Software Developer** with 3+ years of experience, currently at **Metagame** and **IDK Brasil**. I turn designs into faithful, high-performance interfaces, and also work on the Back-end with Node.js and NestJS.
 
-## ⚡ Curiosidades
+- The only developer, out of 13+, nominated for the company’s **2024 Excellence Award**
+- Critical fix in a legacy Back-end that **increased monthly revenue by 10%**
+- Freelance projects for clients in Brazil and the USA
 
-- Sou apaixonada por **UI/UX**, mas também gosto de colocar a mão no backend quando necessário.  
-- Adoro criar **documentações claras e organizadas** para qualquer projeto.  
-- Gosto de **experimentar novas tecnologias**, sempre aprendendo e me desafiando.
+<p>
+  <a href="https://annaluizafistarol.com.br/en"><img src="https://img.shields.io/badge/Portfolio-c47f6b?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/anna-luiza-fistarol/"><img src="https://img.shields.io/badge/LinkedIn-c47f6b?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://annaluizafistarol.com.br/cv/Anna_Fistarol_Software_Developer.pdf"><img src="https://img.shields.io/badge/Résumé-1d1a19?style=flat-square" alt="Résumé"></a>
+</p>
 
----
+</details>
 
-✨ Obrigada pela visita! Vamos criar algo incrível juntos!
+<div align="center">
+  <img src="https://annaluizafistarol.com.br/assets/ui/galinha-right.svg" alt="" width="28">
+</div>
